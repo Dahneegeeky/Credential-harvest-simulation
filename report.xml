@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   URL=http://testphp.vulnweb.com/login.php
+   <url>      <param>uname=test</param>
+      <param>pass=test</param>
+   </url>
+</harvester>
